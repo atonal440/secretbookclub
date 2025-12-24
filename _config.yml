@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: V's Secret Book Club
 description: Things I've read this year and enjoyed, presented without warranty.
 
