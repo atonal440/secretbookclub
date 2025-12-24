@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Secret Book Club Christmas 2025"
-date:   2025-12-24 13:40:44 -0600
-categories: books media christmas
----
 Here are a few weird things that I read this year that I really liked. It's a list offered in a spirit of exploration: I have no idea if you will also like them, but they'll probably at least fall well outside of your normal distribution. 
 
 # [Woodworking](ttps://www.amazon.com/Woodworking-Emily-St-James/dp/163893147X)
